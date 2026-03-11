@@ -1,0 +1,13 @@
+com\demo\game\DemoLogicServer.class
+com\demo\game\db\PlayerDao.class
+com\demo\game\proto\GoldRequest.class
+com\demo\game\PlayerAction.class
+com\demo\game\GameCmd.class
+com\demo\game\proto\PlayerInfo.class
+com\demo\game\client\PlayerRegion.class
+com\demo\game\proto\LoginRequest.class
+com\demo\game\db\DbConfig.class
+com\demo\game\GameCode.class
+com\demo\game\client\DemoClient.class
+com\demo\game\proto\NicknameRequest.class
+com\demo\game\DemoApplication.class
